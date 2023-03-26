@@ -1,0 +1,43 @@
+image: node:10.15.3
+
+definitions:
+  steps:
+    - step: &build-step
+        name: Install dependencies
+        caches:
+          - node
+        script:
+          - npm install
+    - step: &lint-step
+        name: Verify code formatting
+        caches:
+          - node
+        script:
+          - npm install
+          - npx eslint '**/*.js'
+    - step: &test-step
+        name: Run tests
+        caches:
+          - node
+        script:
+          - npm install
+          - npm run test
+
+pipelines:
+  pull-requests:
+    develop:
+      - step: *build-step
+      - parallel:
+          - step: *lint-step
+          - step: *test-step
+  branches:
+    master:
+      - step: *build-step
+      - parallel:
+          - step: *lint-step
+          - step: *test-step
+    develop:
+      - step: *build-step
+      - parallel:
+          - step: *lint-step
+          - step: *test-step

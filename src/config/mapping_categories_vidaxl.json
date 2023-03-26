@@ -1,0 +1,1360 @@
+[
+  {
+    "vidaxl_category_id": 361,
+    "vidaxl_full_cat": "Entreprise & industrie > Appareils de détection et attaches > Détecteurs de métaux",
+    "koncrete_cat": "Outils de mesure &amp; détecteurs",
+    "koncrete_id": 715,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 5591,
+    "vidaxl_full_cat": "Entreprise & industrie > Équipement de protection > Gants de sécurité",
+    "koncrete_cat": "Protections des mains",
+    "koncrete_id": 331,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2227,
+    "vidaxl_full_cat": "Entreprise & industrie > Équipement de protection > Lunettes de protection",
+    "koncrete_cat": "Protections des yeux",
+    "koncrete_id": 330,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6987,
+    "vidaxl_full_cat": "Entreprise & industrie > Manutention de matériaux",
+    "koncrete_cat": "Brouettes, chariots et diables",
+    "koncrete_id": 811,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 503771,
+    "vidaxl_full_cat": "Entreprise & industrie > Manutention de matériaux > Ascenseurs & monte-charges > Crics & chariots élévateurs",
+    "koncrete_cat": "Brouettes, chariots et diables",
+    "koncrete_id": 811,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 503768,
+    "vidaxl_full_cat": "Entreprise & industrie > Manutention de matériaux > Ascenseurs & monte-charges > Monte-charges, grues & chariots",
+    "koncrete_cat": "Brouettes, chariots et diables",
+    "koncrete_id": 811,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 503769,
+    "vidaxl_full_cat": "Entreprise & industrie > Manutention de matériaux > Ascenseurs & monte-charges > Poulies, palans & réas",
+    "koncrete_cat": "Palans",
+    "koncrete_id": 341,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 503772,
+    "vidaxl_full_cat": "Entreprise & industrie > Manutention de matériaux > Ascenseurs & monte-charges > Treuils",
+    "koncrete_cat": "Palans",
+    "koncrete_id": 341,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 503011,
+    "vidaxl_full_cat": "Entreprise & industrie > Manutention de matériaux > Palettes & plates-formes de chargement",
+    "koncrete_cat": "Brouettes, chariots et diables",
+    "koncrete_id": 811,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 5893,
+    "vidaxl_full_cat": "Entreprise & industrie > Signalétique > Panneaux de sécurité",
+    "koncrete_cat": "Sécurité de chantier",
+    "koncrete_id": 373,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 5892,
+    "vidaxl_full_cat": "Entreprise & industrie > Signalétique > Signalétique de danger & d'avertissement",
+    "koncrete_cat": "Sécurité de chantier",
+    "koncrete_id": 373,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 5830,
+    "vidaxl_full_cat": "Entreprise & industrie > Stockage industriel",
+    "koncrete_cat": "Rangements",
+    "koncrete_id": 326,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 5833,
+    "vidaxl_full_cat": "Entreprise & industrie > Stockage industriel > Étagères industrielles",
+    "koncrete_cat": "Rangements",
+    "koncrete_id": 326,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 611,
+    "vidaxl_full_cat": "Maison & jardin > Appareils électroménagers > Chauffage & climatisation > Appareils de chauffage",
+    "koncrete_cat": "Chauffage",
+    "koncrete_id": 240,
+    "status": "draft"
+  },
+  {
+    "vidaxl_category_id": 2649,
+    "vidaxl_full_cat": "Maison & jardin > Appareils électroménagers > Chauffage & climatisation > Chauffages d'extérieur",
+    "koncrete_cat": "Chauffage",
+    "koncrete_id": 240,
+    "status": "draft"
+  },
+  {
+    "vidaxl_category_id": 605,
+    "vidaxl_full_cat": "Maison & jardin > Appareils électroménagers > Chauffage & climatisation > Climatiseurs",
+    "koncrete_cat": "Climatisation",
+    "koncrete_id": 246,
+    "status": "draft"
+  },
+  {
+    "vidaxl_category_id": 2060,
+    "vidaxl_full_cat": "Maison & jardin > Appareils électroménagers > Chauffage & climatisation > Radiateurs",
+    "koncrete_cat": "Radiateurs électriques",
+    "koncrete_id": 251,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7400,
+    "vidaxl_full_cat": "Maison & jardin > Luminaires > Éclairage extérieur",
+    "koncrete_cat": "Éclairages",
+    "koncrete_id": 275,
+    "status": "draft"
+  },
+  {
+    "vidaxl_category_id": 4636,
+    "vidaxl_full_cat": "Maison & jardin > Luminaires > Lampes",
+    "koncrete_cat": "Éclairages",
+    "koncrete_id": 275,
+    "status": "draft"
+  },
+  {
+    "vidaxl_category_id": 1546,
+    "vidaxl_full_cat": "Maison & jardin > Luminaires > Projecteurs",
+    "koncrete_cat": "Projecteurs",
+    "koncrete_id": 301,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1226,
+    "vidaxl_full_cat": "Maison & jardin > Pelouses & jardins > Équipement électrique d'extérieur > Nettoyeurs à haute pression",
+    "koncrete_cat": "Nettoyeurs haute pression",
+    "koncrete_id": 815,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 365,
+    "vidaxl_full_cat": "Maison & jardin > Sécurité à domicile & au bureau > Détecteurs pour systèmes de sécurité",
+    "koncrete_cat": "Système de sécurité",
+    "koncrete_id": 803,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1434,
+    "vidaxl_full_cat": "Maison & jardin > Sécurité gaz, incendie et inondation > Extincteurs",
+    "koncrete_cat": "Outils d'urgence",
+    "koncrete_id": 1146,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 4487,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires de ponçage",
+    "koncrete_cat": "Ponceuses",
+    "koncrete_id": 738,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3240,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires de ponçage > Papier de verre & éponges à poncer",
+    "koncrete_cat": "Ponceuses",
+    "koncrete_id": 738,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 499947,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires de soudage",
+    "koncrete_cat": "Accessoires de soudage",
+    "koncrete_id": 706,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3609,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour fers à souder > Pannes pour fers à souder",
+    "koncrete_cat": "Accessoires de soudage",
+    "koncrete_id": 706,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 499859,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour meuleuses",
+    "koncrete_cat": "Meuleuses",
+    "koncrete_id": 721,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 499860,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour meuleuses > Meules & pointes montées",
+    "koncrete_cat": "Meuleuses",
+    "koncrete_id": 721,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3944,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour perceuses & visseuses",
+    "koncrete_cat": "Perceuses",
+    "koncrete_id": 1148,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6378,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour perceuses & visseuses > Affûteuses de forets",
+    "koncrete_cat": "Foret et mandrin",
+    "koncrete_id": 1149,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7140,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour perceuses & visseuses > Extensions de forets",
+    "koncrete_cat": "Foret et mandrin",
+    "koncrete_id": 1149,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1540,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour perceuses & visseuses > Forets & embouts de tournevis",
+    "koncrete_cat": "Foret et mandrin",
+    "koncrete_id": 1149,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 8276,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour perceuses & visseuses > Mandrins",
+    "koncrete_cat": "Foret et mandrin",
+    "koncrete_id": 1149,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6806,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour perceuses & visseuses > Scie cloche",
+    "koncrete_cat": "Scies cloches",
+    "koncrete_id": 1150,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 8275,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour perceuses & visseuses > Supports & guides de perçage",
+    "koncrete_cat": "Perceuses",
+    "koncrete_id": 1148,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6549,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour scies",
+    "koncrete_cat": "Accessoires pour scies",
+    "koncrete_id": 1151,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6503,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour scies > Accessoires pour scies à onglets",
+    "koncrete_cat": "Accessoires pour scies",
+    "koncrete_id": 1151,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7515,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour scies > Accessoires pour scies à ruban",
+    "koncrete_cat": "Accessoires pour scies",
+    "koncrete_id": 1151,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7345,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour scies > Accessoires pour scies circulaires portatives",
+    "koncrete_cat": "Accessoires pour scies",
+    "koncrete_id": 1151,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3210,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Accessoires pour toupies > Fraises de toupie",
+    "koncrete_cat": "Foret et mandrin",
+    "koncrete_id": 1149,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6295,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Batteries d'outils électriques",
+    "koncrete_cat": "Batteries et chargeurs",
+    "koncrete_id": 1152,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6292,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Chargeurs de batteries",
+    "koncrete_cat": "Batteries et chargeurs",
+    "koncrete_id": 1152,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2202,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires d'outils > Lames d'outils > Lames de scie",
+    "koncrete_cat": "Accessoires pour scies",
+    "koncrete_id": 1151,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2878,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie",
+    "koncrete_cat": "Consommables et accessoires pour outils",
+    "koncrete_id": 807,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 4988,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Bâches",
+    "koncrete_cat": "Bâches",
+    "koncrete_id": 340,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 502977,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Chaînes, câbles & cordes",
+    "koncrete_cat": "Câbles et cordes",
+    "koncrete_id": 342,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3053,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Chaînes, câbles & cordes > Cordes & câbles de construction",
+    "koncrete_cat": "Câbles et cordes",
+    "koncrete_id": 342,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6297,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Chaînes, câbles & cordes > Sangles",
+    "koncrete_cat": "Sangles",
+    "koncrete_id": 343,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 503773,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Crochets, boucles & attaches",
+    "koncrete_cat": "Câbles et cordes",
+    "koncrete_id": 342,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2408,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Fixations pour matériel > Clous",
+    "koncrete_cat": "Clous",
+    "koncrete_id": 337,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3974,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Organisation & rangement d'outils",
+    "koncrete_cat": "Rangements",
+    "koncrete_id": 326,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3280,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Organisation & rangement d'outils > Armoires à outils",
+    "koncrete_cat": "Armoires à outils",
+    "koncrete_id": 690,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3980,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Organisation & rangement d'outils > Boîtes à outils",
+    "koncrete_cat": "Boîtes à outils",
+    "koncrete_id": 691,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3919,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Organisation & rangement d'outils > Établis",
+    "koncrete_cat": "Établis",
+    "koncrete_id": 743,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6876,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Organisation & rangement d'outils > Sacs à outils",
+    "koncrete_cat": "Sacs à outils",
+    "koncrete_id": 694,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7092,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires de quincaillerie > Supports et équerres de renfort",
+    "koncrete_cat": "Fixations",
+    "koncrete_id": 336,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 5627,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires électriques > Cache-prises électriques",
+    "koncrete_cat": "Appareillages encastrés",
+    "koncrete_id": 297,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1218,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires électriques > Générateurs",
+    "koncrete_cat": "Générateurs",
+    "koncrete_id": 1153,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6459,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires électriques > Interrupteurs",
+    "koncrete_cat": "Appareillages encastrés",
+    "koncrete_id": 297,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2413,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires électriques > Kits de domotique",
+    "koncrete_cat": "Domotique",
+    "koncrete_id": 274,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1869,
+    "vidaxl_full_cat": "Quincaillerie > Accessoires électriques > Prises de courant",
+    "koncrete_cat": "Appareillages encastrés",
+    "koncrete_id": 297,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 499873,
+    "vidaxl_full_cat": "Quincaillerie > Chauffage, ventilation & climatisation",
+    "koncrete_cat": "Chauffage",
+    "koncrete_id": 240,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 499874,
+    "vidaxl_full_cat": "Quincaillerie > Chauffage, ventilation & climatisation > Conduits d'air",
+    "koncrete_cat": "Gaines",
+    "koncrete_id": 159,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 502983,
+    "vidaxl_full_cat": "Quincaillerie > Clôtures & barrières > Accessoires pour clôtures & portillons",
+    "koncrete_cat": "Clôtures",
+    "koncrete_id": 685,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 502973,
+    "vidaxl_full_cat": "Quincaillerie > Clôtures & barrières > Panneaux de clôture",
+    "koncrete_cat": "Clôtures",
+    "koncrete_id": 685,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1788,
+    "vidaxl_full_cat": "Quincaillerie > Clôtures & barrières > Portillons",
+    "koncrete_cat": "Portails",
+    "koncrete_id": 873,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 503742,
+    "vidaxl_full_cat": "Quincaillerie > Consommables de construction > Colle & adhésifs de construction",
+    "koncrete_cat": "Fixations",
+    "koncrete_id": 336,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 503744,
+    "vidaxl_full_cat": "Quincaillerie > Consommables de construction > Enduits de protection & matériaux d'étanchéité",
+    "koncrete_cat": "Enduits de cloison",
+    "koncrete_id": 150,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 115,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction",
+    "koncrete_cat": "Maçonnerie",
+    "koncrete_id": 121,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7136,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Carreaux pour plafond & mur",
+    "koncrete_cat": "Carrelage mural",
+    "koncrete_id": 169,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 499773,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Équipements pour fenêtres > Manivelles pour fenêtres",
+    "koncrete_cat": "Fenêtres",
+    "koncrete_id": 180,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7004,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Escaliers",
+    "koncrete_cat": "Escaliers",
+    "koncrete_id": 872,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 124,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Fenêtres",
+    "koncrete_cat": "Fenêtres",
+    "koncrete_id": 180,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 122,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Isolation",
+    "koncrete_cat": "Isolation",
+    "koncrete_id": 123,
+    "status": "draft"
+  },
+  {
+    "vidaxl_category_id": 7053,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Lambris",
+    "koncrete_cat": "Lambris",
+    "koncrete_id": 1156,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7112,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Moulages",
+    "koncrete_cat": "Gros-œuvre",
+    "koncrete_id": 672,
+    "status": "draft"
+  },
+  {
+    "vidaxl_category_id": 7439,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Panneaux et mousse d'isolation acoustique",
+    "koncrete_cat": "Isolants intérieur",
+    "koncrete_id": 140,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 119,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Portes",
+    "koncrete_cat": "Portes",
+    "koncrete_id": 182,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 4634,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Portes > Portes d'entrée",
+    "koncrete_cat": "Portes d'entrée",
+    "koncrete_id": 193,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1356,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Quincaillerie pour portes > Boutons & poignées de porte",
+    "koncrete_cat": "Portes",
+    "koncrete_id": 182,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 503727,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Quincaillerie pour portes > Encadrements de porte",
+    "koncrete_cat": "Encadrements de porte",
+    "koncrete_id": 209,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2826,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Tapis & revêtements de sol",
+    "koncrete_cat": "Planchers",
+    "koncrete_id": 205,
+    "status": "draft"
+  },
+  {
+    "vidaxl_category_id": 123,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Toitures",
+    "koncrete_cat": "Couverture",
+    "koncrete_id": 122,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 4544,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Toitures > Accessoires pour gouttières",
+    "koncrete_cat": "Gouttières",
+    "koncrete_id": 133,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 8270,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Toitures > Bardeaux et tuiles",
+    "koncrete_cat": "Tuiles",
+    "koncrete_id": 127,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 120,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Verre",
+    "koncrete_cat": "Fenêtres",
+    "koncrete_id": 180,
+    "status": "draft"
+  },
+  {
+    "vidaxl_category_id": 6943,
+    "vidaxl_full_cat": "Quincaillerie > Matériaux de construction > Volets",
+    "koncrete_cat": "Volets",
+    "koncrete_id": 181,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1167,
+    "vidaxl_full_cat": "Quincaillerie > Outils",
+    "koncrete_cat": "Outillage et protection",
+    "koncrete_id": 320,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1644,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Aiguiseurs",
+    "koncrete_cat": "Aiguiseurs",
+    "koncrete_id": 730,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1179,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Barres de levier",
+    "koncrete_cat": "Barres de levier",
+    "koncrete_id": 698,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3501,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Bêches tarières",
+    "koncrete_cat": "Bêches tarières",
+    "koncrete_id": 734,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1201,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Chevalet de sciage",
+    "koncrete_cat": "Chevalet de sciage",
+    "koncrete_id": 712,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1632,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Clés",
+    "koncrete_cat": "Clés",
+    "koncrete_id": 735,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1221,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Clés & tournevis à chocs",
+    "koncrete_cat": "Clés à chocs",
+    "koncrete_id": 840,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1206,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Cloueuses & agrafeuses",
+    "koncrete_cat": "Cloueuses &amp; agrafeuses",
+    "koncrete_id": 697,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 4325,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Compacteurs",
+    "koncrete_cat": "Compacteurs",
+    "koncrete_id": 714,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2015,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Compresseurs",
+    "koncrete_cat": "Compresseurs",
+    "koncrete_id": 703,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1841,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Défonceuses",
+    "koncrete_cat": "Défonceuses et affleureuses",
+    "koncrete_id": 828,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7271,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Dégauchisseuses",
+    "koncrete_cat": "Défonceuses et affleureuses",
+    "koncrete_id": 828,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 126,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Diables & chariots de manutention",
+    "koncrete_cat": "Brouettes, chariots et diables",
+    "koncrete_id": 811,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1866,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Échelles & échafaudages > Échafaudages",
+    "koncrete_cat": "Échafaudages",
+    "koncrete_id": 806,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6928,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Échelles & échafaudages > Échelles",
+    "koncrete_cat": "Échelles",
+    "koncrete_id": 806,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2416,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Échelles & échafaudages > Escabeaux roulants",
+    "koncrete_cat": "Escabeaux roulants",
+    "koncrete_id": 806,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1809,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Échelles & échafaudages > Plateformes de travail",
+    "koncrete_cat": "Établis",
+    "koncrete_id": 743,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 635,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Échelles & échafaudages > Tabourets-escabeaux",
+    "koncrete_cat": "Tabourets-escabeaux",
+    "koncrete_id": 806,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1236,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Fers à souder",
+    "koncrete_cat": "Accessoires de soudage",
+    "koncrete_id": 706,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 5077,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Fraiseuses",
+    "koncrete_cat": "Fraiseuses",
+    "koncrete_id": 434,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1171,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Haches",
+    "koncrete_cat": "Haches",
+    "koncrete_id": 724,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 47161,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Jeux d'outils",
+    "koncrete_cat": "Pack de machines et outils",
+    "koncrete_id": 824,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6965,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Jeux d'outils > Jeux d'outils à main",
+    "koncrete_cat": "Pack de machines et outils",
+    "koncrete_id": 824,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 4716,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Jeux d'outils > Jeux d'outils mixtes",
+    "koncrete_cat": "Pack de machines et outils",
+    "koncrete_id": 824,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3745,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Lime à outils",
+    "koncrete_cat": "Lime à outils",
+    "koncrete_id": 718,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2208,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Marteaux > Marteaux à main",
+    "koncrete_cat": "Marteaux et maillets",
+    "koncrete_id": 775,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 505364,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Marteaux > Marteaux électriques",
+    "koncrete_cat": "Marteaux et maillets",
+    "koncrete_id": 775,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1219,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Meuleuses",
+    "koncrete_cat": "Meuleuses",
+    "koncrete_id": 721,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1391,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils d'ébavurage",
+    "koncrete_cat": "Outils d'ébavurage",
+    "koncrete_id": 727,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1215,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de calfat",
+    "koncrete_cat": "Outils de calfat",
+    "koncrete_id": 709,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1180,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de coupe",
+    "koncrete_cat": "Outils de coupe",
+    "koncrete_id": 736,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1454,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de coupe > Cisailles & grignoteuses à main",
+    "koncrete_cat": "Outils de coupe",
+    "koncrete_id": 736,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1824,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de coupe > Coupe-barre",
+    "koncrete_cat": "Outils de coupe",
+    "koncrete_id": 736,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1181,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de coupe > Coupe-boulons",
+    "koncrete_cat": "Coupe-boulons",
+    "koncrete_id": 783,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2726,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de coupe > Coupe-carreaux & bardeaux",
+    "koncrete_cat": "Outils de coupe",
+    "koncrete_id": 736,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1193,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de maçonnerie",
+    "koncrete_cat": "Outils de maçonnerie",
+    "koncrete_id": 717,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2305,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de maçonnerie > Bétonnières",
+    "koncrete_cat": "Bétonnières",
+    "koncrete_id": 517,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1450,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de maçonnerie > Jointeuses pour maçonnerie",
+    "koncrete_cat": "Jointeuses pour maçonnerie",
+    "koncrete_id": 742,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 4132,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de maçonnerie > Talocheuses-lisseuses",
+    "koncrete_cat": "Outils de maçonnerie",
+    "koncrete_id": 717,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2181,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de maçonnerie > Truelles",
+    "koncrete_cat": "Outils de maçonnerie",
+    "koncrete_id": 717,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1305,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de mesure & détecteurs",
+    "koncrete_cat": "Outils de mesure &amp; détecteurs",
+    "koncrete_id": 715,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1205,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de mesure & détecteurs > Équerres de traçage & de charpentier",
+    "koncrete_cat": "Équerres et instruments de traçage",
+    "koncrete_id": 769,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2481,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de mesure & détecteurs > Mètres à ruban",
+    "koncrete_cat": "Outils de mesure &amp; détecteurs",
+    "koncrete_id": 715,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2192,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de mesure & détecteurs > Pieds à coulisse",
+    "koncrete_cat": "Pieds à coulisse",
+    "koncrete_id": 778,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2021,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de mesure & détecteurs > Règles",
+    "koncrete_cat": "Règles",
+    "koncrete_id": 767,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1459,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de mesure & détecteurs > Roues de mesure",
+    "koncrete_cat": "Roues de mesure",
+    "koncrete_id": 753,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2077,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de peinture",
+    "koncrete_cat": "Outils de peinture",
+    "koncrete_id": 711,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2465,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de peinture > Pistolets à peinture",
+    "koncrete_cat": "Pistolets à peinture",
+    "koncrete_id": 770,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1196,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de ramassage",
+    "koncrete_cat": "Outils de ramassage",
+    "koncrete_id": 701,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7066,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de rivetage > Pinces à riveter",
+    "koncrete_cat": "Divers",
+    "koncrete_id": 280,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7065,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de rivetage > Pistolets à riveter",
+    "koncrete_cat": "Divers",
+    "koncrete_id": 280,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 5587,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils électriques multi-usages",
+    "koncrete_cat": "Outils multifonctions",
+    "koncrete_id": 855,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1469,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils pour câbles & fils",
+    "koncrete_cat": "Outils pour câbles &amp; fils",
+    "koncrete_id": 700,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1217,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Perceuses",
+    "koncrete_cat": "Perceuses",
+    "koncrete_id": 1148,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1216,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Perceuses > Perceuses à colonne",
+    "koncrete_cat": "Perceuses",
+    "koncrete_id": 1148,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2629,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Perceuses > Perceuses électriques portatives",
+    "koncrete_cat": "Perceuses",
+    "koncrete_id": 1148,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1994,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Perceuses > Perceuses pneumatiques",
+    "koncrete_cat": "Perceuses",
+    "koncrete_id": 1148,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1367,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Perceuses > Tarières",
+    "koncrete_cat": "Tarières",
+    "koncrete_id": 757,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1958,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Pinces",
+    "koncrete_cat": "Pinces",
+    "koncrete_id": 739,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1220,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Pistolets thermiques",
+    "koncrete_cat": "Pistolets thermiques",
+    "koncrete_id": 720,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1225,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Polisseuses & lustreuses",
+    "koncrete_cat": "Polisseuses &amp; lustreuses",
+    "koncrete_id": 707,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7556,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Pompes à graisse",
+    "koncrete_cat": "Divers",
+    "koncrete_id": 280,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1188,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Ponceuses",
+    "koncrete_cat": "Ponceuses",
+    "koncrete_id": 738,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 5592,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Projecteurs de chantier",
+    "koncrete_cat": "Projecteurs de chantier",
+    "koncrete_id": 346,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6868,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Raboteuses",
+    "koncrete_cat": "Raboteuses",
+    "koncrete_id": 725,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1187,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Rabots",
+    "koncrete_cat": "Rabots",
+    "koncrete_id": 713,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 6938,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Sableuses",
+    "koncrete_cat": "Sableuses",
+    "koncrete_id": 731,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1235,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Scies",
+    "koncrete_cat": "Scies",
+    "koncrete_id": 710,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 4633,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Scies > Scies à chantourner",
+    "koncrete_cat": "Scies à chantourner",
+    "koncrete_id": 766,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3594,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Scies > Scies à main",
+    "koncrete_cat": "Scies à main",
+    "koncrete_id": 782,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3517,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Scies > Scies à onglet",
+    "koncrete_cat": "Scies à onglet",
+    "koncrete_id": 768,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3582,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Scies > Scies à ruban",
+    "koncrete_cat": "Scies à ruban",
+    "koncrete_id": 752,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3706,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Scies > Scies à table",
+    "koncrete_cat": "Scies à table",
+    "koncrete_id": 774,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3494,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Scies > Scies alternatives",
+    "koncrete_cat": "Scies alternatives",
+    "koncrete_id": 776,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3224,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Scies > Scies circulaires manuelles",
+    "koncrete_cat": "Scies",
+    "koncrete_id": 710,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 3725,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Scies > Scies sauteuses",
+    "koncrete_cat": "Scies sauteuses",
+    "koncrete_id": 755,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2835,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Serre-joints & étaux",
+    "koncrete_cat": "Pinces étaux",
+    "koncrete_id": 863,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1184,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Tarauds",
+    "koncrete_cat": "Tarauds",
+    "koncrete_id": 699,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1203,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Tournevis & visseuses",
+    "koncrete_cat": "Tournevis",
+    "koncrete_id": 607,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1195,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Tournevis à douilles",
+    "koncrete_cat": "Tournevis",
+    "koncrete_id": 607,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1663,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Tours fraiseuses",
+    "koncrete_cat": "Tours fraiseuses",
+    "koncrete_id": 719,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1636,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Équipements sanitaires > Baignoires",
+    "koncrete_cat": "Baignoires",
+    "koncrete_id": 350,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7244,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Équipements sanitaires > Cabines & kits de douche",
+    "koncrete_cat": "Douches",
+    "koncrete_id": 349,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1687,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Équipements sanitaires > Éviers & lavabos",
+    "koncrete_cat": "Lavabos",
+    "koncrete_id": 221,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2757,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Équipements sanitaires > Éviers & lavabos > Éviers & Plonges",
+    "koncrete_cat": "Éviers",
+    "koncrete_id": 353,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2886,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Équipements sanitaires > Éviers & lavabos > Lavabos",
+    "koncrete_cat": "Lavabos",
+    "koncrete_id": 221,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2032,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Équipements sanitaires > Robinets",
+    "koncrete_cat": "Robinetterie",
+    "koncrete_id": 222,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2062,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Équipements sanitaires > Toilettes & bidets",
+    "koncrete_cat": "WC",
+    "koncrete_id": 220,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2376,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Équipements sanitaires > Toilettes & bidets > Bidets",
+    "koncrete_cat": "Bidets",
+    "koncrete_id": 352,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1921,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Équipements sanitaires > Toilettes & bidets > Toilettes",
+    "koncrete_cat": "WC",
+    "koncrete_id": 220,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1746,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Équipements sanitaires > Toilettes & bidets > Urinoirs",
+    "koncrete_cat": "WC",
+    "koncrete_id": 220,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1810,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Fixations & supports de plomberie",
+    "koncrete_cat": "Fixations",
+    "koncrete_id": 336,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 5665,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Pièces & matériel de plomberie > Accessoires pour bidets & toilettes > Réservoirs de toilette",
+    "koncrete_cat": "WC",
+    "koncrete_id": 220,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 504634,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Pièces & matériel de plomberie > Accessoires pour bidets & toilettes > Robinets et douchettes pour bidets",
+    "koncrete_cat": "Bidets",
+    "koncrete_id": 352,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1963,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Pièces & matériel de plomberie > Accessoires pour éviers",
+    "koncrete_cat": "Éviers",
+    "koncrete_id": 353,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 504636,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Pièces & matériel de plomberie > Canalisations",
+    "koncrete_cat": "Tuyaux",
+    "koncrete_id": 344,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 4728,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Pièces & matériel de plomberie > Pièces de douches > Bacs de douche",
+    "koncrete_cat": "Douches",
+    "koncrete_id": 349,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 504638,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Pièces & matériel de plomberie > Pièces de douches > Bras & embouts de douche",
+    "koncrete_cat": "Douches",
+    "koncrete_id": 349,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 7130,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Pièces & matériel de plomberie > Pièces de douches > Panneaux de douche",
+    "koncrete_cat": "Douches",
+    "koncrete_id": 349,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 581,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Pièces & matériel de plomberie > Pièces de douches > Pommes de douche",
+    "koncrete_cat": "Douches",
+    "koncrete_id": 349,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 1779,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Pièces & matériel de plomberie > Pièces de douches > Portes & parois de douche",
+    "koncrete_cat": "Douches",
+    "koncrete_id": 349,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 2570,
+    "vidaxl_full_cat": "Quincaillerie > Plomberie > Tuyaux de plomberie & arrivées d'eau",
+    "koncrete_cat": "Tuyaux",
+    "koncrete_id": 344,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 500100,
+    "vidaxl_full_cat": "Quincaillerie > Pompes > Pompes & systèmes de puisage",
+    "koncrete_cat": "Pompes",
+    "koncrete_id": 386,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 500101,
+    "vidaxl_full_cat": "Quincaillerie > Pompes > Pompes d'appoint",
+    "koncrete_cat": "Pompes",
+    "koncrete_id": 386,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 500102,
+    "vidaxl_full_cat": "Quincaillerie > Pompes > Pompes d'épuisement, d'effluent & pour relèvement d'eaux usées",
+    "koncrete_cat": "Pompes",
+    "koncrete_id": 386,
+    "status": "publish"
+  },
+  {
+    "vidaxl_category_id": 4931,
+    "vidaxl_full_cat": "Quincaillerie > Outils > Outils de mesure & détecteurs > Niveaux > Niveaux laser",
+    "koncrete_cat": "Niveaux et fils à plombs",
+    "koncrete_id": 817,
+    "status": "publish"
+  }
+]

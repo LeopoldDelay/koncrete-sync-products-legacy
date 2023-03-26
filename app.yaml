@@ -1,0 +1,28 @@
+runtime: nodejs14
+manual_scaling:
+  instances: 1
+
+service: default # You should change that name
+env_variables:
+  NODE_ENV: prod # prod/preprod
+  INSTANCE: local
+  MY_VAR: "my value"
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
